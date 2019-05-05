@@ -6,4 +6,5 @@ HOW TO PLAY MASTERMIND<br>
 HINTS<br>
 If you get a digit absolutely correct, the digit will be coloured green.<br>
 If you get a digit correct but in the wrong position, the digit will be coloured white.<br>
-If you get the digit wrong, the digit will be coloured red.<br>
+If you get the digit wrong, the digit will be coloured red.<br><br>
+Live version https://repl.it/@SergejJurchenko/mastermind
